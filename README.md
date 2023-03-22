@@ -1,7 +1,7 @@
 # Programacion 2
-## Temas del curso
--[analisis de algoritmos](#analisis-de-algoritms)
--[TAD](#tad)
--[grafos](#grafos)
-### TAD
+
+## Lenguaje C y C++
+
+### Temas del Curso
+- [Analisis de Algoritmos](#analisis-de-algoritmos)
 
